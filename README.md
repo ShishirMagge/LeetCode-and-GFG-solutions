@@ -1,4 +1,4 @@
-# LeetCode-solutions
+# LeetCode and GFG-solutions
 This repository contains different problem statements from leetcode and solutions to them.
 ***
 | Sl no. | Problem Statements | Topic | Language | Difficulty | Solution
