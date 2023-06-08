@@ -7,4 +7,4 @@ This repository contains different problem statements from leetcode and solution
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List |C++|Easy| [click here](https://github.com/ShishirMagge/LeetCode-solutions/blob/main/LeetCode/linked%20list%20reversal.cpp) |
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Arrays |Python|Medium|[click here](https://github.com/ShishirMagge/LeetCode-solutions/blob/main/LeetCode/sortarray.py) |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Arrays | Python|Easy|[click here](https://github.com/ShishirMagge/LeetCode-solutions/blob/branch1/LeetCode/Search_Insert_Position.py)|
-|48| [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Matrix | C++ | Medium | [click here]()|
+|48| [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Matrix | C++ | Medium | [click here](https://github.com/ShishirMagge/LeetCode-and-GFG-solutions/blob/main/LeetCode/rotate_image.cpp)|
